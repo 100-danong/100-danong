@@ -1,7 +1,7 @@
 <h1 align="center">안녕하세요 조종찬입니다</h1>
 <h3 align="center">바위처럼 단단한 개발자가 되고 싶습니다.</h3>
 
-- 📫 How to reach me **sksdmsgp88@gmail.com**
+- 📫 이메일 **sksdmsgp88@gmail.com**
 
 <p align="left">
   
